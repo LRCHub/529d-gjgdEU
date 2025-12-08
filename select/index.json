@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "夜咄ディセイブ",
+  "base_artist": "じん",
+  "createdAt": "2025-12-08T06:01:53.630033Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yobanashi Deceive (English Cover)【JubyPhonic】夜咄ディセイブ",
+      "artist": "JubyPhonic",
+      "has_synced": true,
+      "path": "select/01_Yobanashi_Deceive_(English_Cover)【JubyPhonic】夜咄ディセイブ_JubyPhonic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yobanashi Deceive (夜咄ディセイブ)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/02_Yobanashi_Deceive_(夜咄ディセイブ)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "夜咄ディセイブ",
+      "artist": "melost(天月-あまつき-×はしやん)",
+      "has_synced": true,
+      "path": "select/03_夜咄ディセイブ_melost(天月-あまつき-×はしやん).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夜咄ディセイブ",
+      "artist": "おさむらいさん; しゃむおん",
+      "has_synced": false,
+      "path": "select/04_夜咄ディセイブ_おさむらいさん;_しゃむおん.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "夜咄ディセイブ - Yobanashi Deceive (feat. 東雲彰人&青柳冬弥&鏡音レン)",
+      "artist": "Vivid BAD SQUAD",
+      "has_synced": true,
+      "path": "select/05_夜咄ディセイブ_-_Yobanashi_Deceive_(feat._東雲彰人&青柳冬弥&鏡音レン)_Vivid_BAD_SQUAD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜咄ディセイブ",
+      "artist": "じん",
+      "has_synced": false,
+      "path": "select/pl_01_夜咄ディセイブ_じん.txt"
+    }
+  ]
+}
